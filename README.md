@@ -19,7 +19,7 @@ LeetCode Stats API – To retrieve user statistics.
 
 Live Demo
 View Live Demo
-(Replace with your GitHub Pages link or any live demo URL if available.)
+https://dimple2204.github.io/DSAlytics/
 
 
 Acknowledgements:
